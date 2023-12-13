@@ -1,0 +1,30 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h1 {
+  color: white;
+  font-size: 2em;
+}
+
+.container p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.container .btn-apply {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
